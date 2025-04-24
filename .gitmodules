@@ -1,0 +1,6 @@
+[submodule "quickassets"]
+	path = quickassets
+	url = https://github.com/quicktrustgruop/quickassets.git
+[submodule "quickassets1"]
+	path = quickassets1
+	url = https://github.com/quicktrustgruop/quickassets1.git
